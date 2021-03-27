@@ -1,12 +1,13 @@
-### Hi there 👋
-
-
-   ___    ____  ___     _____  ____
-  / _ \  / __/ / _ |   / ___/ / __/
- / ___/ / _/  / __ |  / /__  / _/  
-/_/    /___/ /_/ |_|  \___/ /___/  
-                                   
-                                   
+### 
+       _    (^)
+      (_\   |_|
+       \_\  |_|
+       _\_\,/_|
+      (`\(_|`\|
+     (`\,)  \ \
+      \,)   | |      
+        \__(__|
+                                                                                                                                                               
                                    
 <!--
 **devkumararora/devkumararora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
